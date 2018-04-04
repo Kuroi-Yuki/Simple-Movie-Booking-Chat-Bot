@@ -157,8 +157,8 @@ Next is trying out the flow defined.
 1.  Click on the **Try it** button found at the top right of the page.
 2.  Start conversing with the chatbot (an example is given below).
 
-![Watson Assistant service](images/image17.png)
-![Watson Assistant service](images/image18.png)
+![Watson Assistant service](images/image22.png)
+![Watson Assistant service](images/image23.png)
 
 We will notice that the intent for when we mentioned the location and the number of seats is **Irrelevant**. That is because we only mentioned entities, which were labelled correctly. We can adjust the intent and change it from **Irrelevant** to *#book_tickets* based on which the bot will be retrained.
 
